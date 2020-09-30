@@ -5,7 +5,7 @@ Tilesets can be loaded from an image file via the console and used to build 2D l
 
 Levels can also be saved and loaded/edited.
 
-It also features a collision layer which lets you mark the tiles that the player is supposed to collide with
+It also features a collision layer which lets you mark the tiles that the player is supposed to collide with.
  
 # Video Demonstration
 
